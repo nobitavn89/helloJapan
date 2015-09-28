@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello Japan!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!--nobita defined-->
+    <string name="profile_settings">Profile Settings</string>
+    <string name="visitor_name">Name: </string>
+    <string name="name_text_box_hint">enter your name</string>
+    <string name="country_text_box_hint">enter your current country</string>
+    <string name="home_country">Home country: </string>
+    <string name="current_country">Country: </string>
+    <string name="search">Search&#8230;</string>
+    <string name="country_detect">Auto detect</string>
+    <string name="arrival_time">Arrival Time: </string>
+    <string name="arrival_time_temp">DD-MM-YYYY</string>
+    <string name="title_activity_profile_settings">ProfileSettingsActivity</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+
+    <!--shared pref-->
+    <string name="shared_pref_key">user_shared_pref</string>
+    <string name="key_profile_settings_done">key_profile_settings_done</string>
+    <string name="key_user_name">key_user_name</string>\
+    <string name="key_user_location">key_user_location</string>
+    <string name="key_day_arrival">key_day_arrival</string>
+    <string name="key_month_arrival">key_month_arrival</string>
+    <string name="key_year_arrival">key_year_arrival</string>
+    <string name="key_profile_img_path">key_profile_img_path</string>
+
+    <!--button key-->
+    <string name="id_btn_ok">btn_ok</string>
+    <string name="id_btn_cancel">btn_cancel</string>
+    <string name="id_btn_date_picker">btn_date_picker</string>
+    <string name="id_btn_location_detect">btn_location</string>
+
+    <string name="action_edit">Edit</string>
+    <string name="profile_setting_alert_title">Profile Notification</string>
+    <string name="profile_setting_alert_message">Profile is not set, click OK to set your profile</string>
+    <string name="app_exit_noti">Exiting Application!</string>
+
+     <string name="profile_empty_notice">Profile is not set! Nothing to display!</string>
+    <string name="how_long_string">You have been here for %d days</string>
+    <string name="how_long_string_noti" formatted="false">You have been in %s for %d days</string>
+</resources>
